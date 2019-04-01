@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1552942287 source:c:\users\fcollodel\desktop\nueva carpeta\practico3\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1552942346 c:\users\fcollodel\desktop\nueva carpeta\practico3\boolean.h
+
+1553551295 source:c:\users\fcollodel\desktop\nueva carpeta\practico3\main.cpp
+	<stdio.h>
+	"boolean.h"
+	"string.h"
+	"arreglo.h"
+
+1552944977 source:c:\users\fcollodel\desktop\nueva carpeta\practico3\string.cpp
+	"string.h"
+
+1552944977 c:\users\fcollodel\desktop\nueva carpeta\practico3\string.h
+	<stdio.h>
+	"boolean.h"
+
+1553550996 source:c:\users\fcollodel\desktop\nueva carpeta\practico3\arreglo.cpp
+	<stdio.h>
+	"arreglo.h"
+
+1553551315 c:\users\fcollodel\desktop\nueva carpeta\practico3\arreglo.h
+	"boolean.h"
+
