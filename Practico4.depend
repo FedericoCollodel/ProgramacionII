@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1553721442 source:c:\users\fcollodel\desktop\nueva carpeta\practico4\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1553721442 c:\users\fcollodel\desktop\nueva carpeta\practico4\boolean.h
+
+1553806961 source:c:\users\fcollodel\desktop\nueva carpeta\practico4\main.cpp
+	<iostream>
+	"fecha.h"
+	"producto.h"
+
+1553792610 source:c:\users\fcollodel\desktop\nueva carpeta\practico4\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1553721465 c:\users\fcollodel\desktop\nueva carpeta\practico4\fecha.h
+	<stdio.h>
+	"boolean.h"
+
+1553802992 source:c:\users\fcollodel\desktop\nueva carpeta\practico4\string.cpp
+	"string.h"
+
+1553802992 c:\users\fcollodel\desktop\nueva carpeta\practico4\string.h
+	<stdio.h>
+	"boolean.h"
+
+1553806961 source:c:\users\fcollodel\desktop\nueva carpeta\practico4\producto.cpp
+	"producto.h"
+
+1553804276 c:\users\fcollodel\desktop\nueva carpeta\practico4\producto.h
+	<stdio.h>
+	"string.h"
+	"fecha.h"
+
